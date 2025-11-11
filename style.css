@@ -1,10 +1,12 @@
-
+div {
+    background-color: white;
+}
 .loader {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    border: 20px #deddd9;
-    border-top: 20px solid #296ef0;
+    border: 20px #f3f3f3;
+    border-top: 20px solid #3498db;
     animation: spinAnimate 3s ease-in 0s infinite normal;
 }
 
@@ -21,12 +23,3 @@
 
 
 
-div {
-    height: 100px;
-    width: 100px;
-    background-color: aquamarine;
-    border: 2px solid black;
-    position: absolute;
-    top: 100px;
-    left: 100px;
-}
