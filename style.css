@@ -3,8 +3,8 @@
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    border: 20px solid yellowgreen;
-    border-top: 20px solid red;
+    border: 20px #deddd9;
+    border-top: 20px solid #296ef0;
     animation: spinAnimate 3s ease-in 0s infinite normal;
 }
 
